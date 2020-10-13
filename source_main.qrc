@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="bg_image">
+    <file>electricfanoff100px.png</file>
+    <file>electricfanon100px.png</file>
+    <file>iconhumidity.png</file>
+    <file>icontemperature.png</file>
+    <file>lampbulboff100px.png</file>
+    <file>lampbulbon100px.png</file>
+    <file>power30px.png</file>
+    <file>pumpoff100px.png</file>
+    <file>pumpon100px.png</file>
+    <file>setting30px.png</file>
+  </qresource>
+</RCC>
